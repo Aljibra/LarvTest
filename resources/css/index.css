@@ -1,0 +1,135 @@
+.homepage-child {
+  position: absolute;
+  top: 416px;
+  left: 352px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 425px;
+  height: 425px;
+}
+.ellipse-div,
+.homepage-inner,
+.homepage-item {
+  position: absolute;
+  top: 102px;
+  left: 494px;
+  border-radius: 50%;
+  background-color: var(--color-darksalmon);
+  width: 257px;
+  height: 257px;
+}
+.ellipse-div,
+.homepage-inner {
+  top: 650px;
+  left: -40px;
+  background-color: var(--color-salmon);
+}
+.ellipse-div {
+  top: 102px;
+  left: 1213px;
+  background-color: var(--color-lightblue);
+  width: 337px;
+  height: 337px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 163px;
+  left: 565px;
+  border-radius: 30px;
+  width: 857px;
+  height: 519px;
+  object-fit: cover;
+}
+.menerima-pesanan {
+  position: absolute;
+  top: 223px;
+  left: 63px;
+  display: inline-block;
+  width: 370px;
+  height: 54px;
+}
+.line-div {
+  position: absolute;
+  top: 348px;
+  left: 62px;
+  border-top: 2px solid var(--color-darksalmon);
+  box-sizing: border-box;
+  width: 480px;
+  height: 2px;
+}
+.homepage-child1,
+.homepage-child2,
+.homepage-child3,
+.rectangle-div {
+  position: absolute;
+  top: 1399px;
+  left: 1482px;
+  border-radius: var(--br-381xl);
+  background-color: var(--color-lightblue);
+  width: 244px;
+  height: 406.72px;
+}
+.homepage-child1,
+.homepage-child2,
+.homepage-child3 {
+  left: 1750px;
+  background-color: var(--color-gainsboro);
+}
+.homepage-child2,
+.homepage-child3 {
+  left: 2018px;
+  background-color: var(--color-salmon);
+}
+.homepage-child3 {
+  left: 2286px;
+  background-color: var(--color-tomato);
+}
+.download-1-icon {
+  position: absolute;
+  top: 444px;
+  left: -742px;
+  width: 675px;
+  height: 390px;
+  object-fit: cover;
+}
+.pernikahan {
+  margin: 0;
+}
+.pernikahan-rapat-container {
+  position: absolute;
+  top: 366px;
+  left: 67px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: var(--font-fredoka);
+  color: #7d7d7d;
+  display: inline-block;
+  width: 461px;
+  height: 45px;
+}
+.ruby-1-icon,
+.ruby-2-icon {
+  position: absolute;
+  top: 795px;
+  left: 1301px;
+  width: 70.43px;
+  height: 78.04px;
+  object-fit: cover;
+}
+.ruby-2-icon {
+  top: 810px;
+  left: 1149px;
+  width: 151.8px;
+  height: 62.81px;
+}
+.homepage {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 907px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-tomato);
+  font-family: var(--font-rubik-one);
+}

@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    --font-fredoka: Fredoka;
+    --font-rubik-one: "Rubik One";
+  
+    --color-tomato: #e14b32;
+    --color-salmon: #dc6e55;
+    --color-gainsboro: #e2e2e2;
+    --color-lightblue: #a5d3eb;
+    --color-darksalmon: #dfa693;
+  
+    --br-381xl: 400px;
+  }
